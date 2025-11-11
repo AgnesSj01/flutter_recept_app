@@ -1,16 +1,30 @@
-# flutter_projekt
+# Flutter Receptapp
 
-A new Flutter project.
+En mobilapp byggd med **Flutter** och **Dart**, skapad för att göra det enkelt och roligt att följa recept steg för steg.  
+Appen visar ingredienser i en interaktiv checklista och tydliga instruktioner för hur du blandar din dryck – till exempel en klassisk mojito!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Funktioner
 
-A few resources to get you started if this is your first Flutter project:
+- Checklista där användaren kan markera av ingredienser
+- Steg-för-steg-instruktioner för tillagning
+- Ren, responsiv och användarvänlig design (Material Design)
+- 📱 Byggd specifikt för mobila enheter (Android)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech stack
+
+- **Flutter**
+- **Dart**
+- **Material Widgets**
+
+---
+
+## Så här kör du projektet lokalt
+
+1. Klona projektet
+   ```bash
+   git clone https://github.com/AgnesSj01/flutter_recept_app.git
+   ```
