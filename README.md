@@ -21,10 +21,3 @@ Appen visar ingredienser i en interaktiv checklista och tydliga instruktioner f�
 - **Material Widgets**
 
 ---
-
-## Så här kör du projektet lokalt
-
-1. Klona projektet
-   ```bash
-   git clone https://github.com/AgnesSj01/flutter_recept_app.git
-   ```
